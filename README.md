@@ -78,8 +78,8 @@ We trained and evaluated three models:
 
 | File | Description |
 |------|-------------|
-| [insurance_analysis.ipynb](https://github.com/dsappa7196/seoul-bike-demand-prediction/blob/main/DataMining_SeoulBikeSharingDemand_Project.ipynb) |  Python notebook with full analysis, charts, models |
-| [insurance_report.pdf](https://github.com/dsappa7196/seoul-bike-demand-prediction/blob/main/DS861_SeoulBikeSharingDemandPrediction_Sappa.pdf) | Final report covering problem, insights, modeling |
+| [insurance_analysis.ipynb](https://github.com/dsappa7196/US-Health-Insurance-Premium-Prediction/blob/main/ISYS_812_GroupProject_HealthInsurance_Final.ipynb) |  Python notebook with full analysis, charts, models |
+| [insurance_report.pdf](https://github.com/dsappa7196/US-Health-Insurance-Premium-Prediction/blob/main/US%20Health%20Insurance%20Data%20Analysis.pdf) | Final report covering problem, insights, modeling |
 | `README.md`               | This file |
 
 ---
